@@ -13,7 +13,7 @@
   <a href="https://github.com/Carlagamarano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlagamarano&layout=compact&langs_count=7&theme=dark"/>
 
-<div style="display: inline-block" align="center"><br>
+<div style="display: inline-block" align=""><br>
   <img align= alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align= alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align= alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
