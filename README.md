@@ -8,10 +8,12 @@
 <br>📫 Contate-me no email: carla.sgamarano@gmail.com</p>
 <br>
 
-<img src="https://github.com/carlagamarano/CarlaGamarano/assets/127261663/a81b3c59-57c5-40c2-804d-f4b06a231db3" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-  <a href="https://github.com/Carlagamarano">
+ <div>
+   <a href="https://github.com/Carlagamarano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlagamarano&layout=compact&langs_count=7&theme=dark"/>
+</div>
+     
+<img src="https://github.com/carlagamarano/CarlaGamarano/assets/127261663/a81b3c59-57c5-40c2-804d-f4b06a231db3" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <div style="display: inline-block" align=""><br>
   <img align= alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
