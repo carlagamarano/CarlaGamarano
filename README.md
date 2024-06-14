@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://github.com/carlagamarano/CarlaGamarano/assets/127261663/2e6eda00-d5ad-4dac-885f-051d06287736"
-</div><br>
-
 <h1 align="center">Seja Bem Vindo ao meu GitHub</h1>
 <p align="center">🌱 Estudando Analise e Desenvolvimento de Sistemas
 <br>🤓Aqui compartilho alguns projetos e minha evolução
